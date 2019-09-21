@@ -13,6 +13,8 @@ Google Cloud Platform with NVIDIA Tesla P100 with n1-highmem-8 (8 vCPUs, 52 GB m
 Keras, Tensorflow, VGG19, InceptionResNet, numpy, pandas, matplotlib
 
 ### Results
+* Quantitative Measurements:
 ![Quantitative Measurements](https://github.com/ravi-teja-sunkara/Single-Image-Super-Resolution-Using-a-Generative-Adversarial-Network/blob/master/Images/Quantitative%20Values.JPG)
 
+* At 12000 epoch Generated images of Validation data using Pixel Shuffler:
 ![At 12000 epoch Generated images of Validation data using Pixel Shuffler](https://github.com/ravi-teja-sunkara/Single-Image-Super-Resolution-Using-a-Generative-Adversarial-Network/blob/master/Images/Combined%20Images%20of%20comparision.JPG)
